@@ -19,7 +19,6 @@
     display: flex;
     flex-direction: row;
     height: fit-content;
-    background-color:rgb(0, 0, 128);
     box-shadow: 0px 0px 70px rgb(36, 36, 36);
 }
 
@@ -43,8 +42,8 @@
 
 .img-logo {
     margin: 0.5rem;
-    height: 8rem;
-    width: 8rem;
+    height: 9.5rem;
+    width: 9.5rem;
 }
 
 .header-title {
@@ -55,9 +54,45 @@
 }
 
 .nav {
-    float: right;
-    justify-content: flex-start;
+    display: flex;
+    font-family: 'Lato', sans-serif;
 }
+
+.Italien {
+    text-align: center;
+    padding: 1rem 0.5rem;
+    margin: 3.5rem 0;
+    font-size: xx-large;
+    border: 0.2rem solid black;
+}
+
+.Frankreich {
+    text-align: center;
+    padding: 1rem 0.5rem;
+    margin: 3.5rem 0;
+    font-size: xx-large;
+    border: 0.2rem solid black;
+}
+
+.Asien {
+    text-align: center;
+    padding: 1rem 0.5rem;
+    margin: 3.5rem 0;
+    font-size: xx-large;
+    border: 0.2rem solid black;
+    border-right: 0.1rem;
+}
+
+.Spanien {
+    text-align: center;
+    padding: 1rem 0.5rem;
+    margin: 3.5rem 0;
+    font-size: xx-large;
+    border: 0.2rem solid black;
+}
+
+/* Main */
+
 
 /* Footer-bar */
 
