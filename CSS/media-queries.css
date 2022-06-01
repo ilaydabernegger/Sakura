@@ -1,0 +1,19 @@
+@media screen and (max-width: 970px) {
+    .header-bar {
+        flex-direction: column;
+    }
+
+    .Italien,
+    .Frankreich,
+    .Asien,
+    .Spanien {
+        margin: 1rem 0rem;
+        padding: 1rem auto;
+    }
+
+    .logo-help {
+        position: relative;
+        left: 50%;
+        width: fit-content;
+    }
+}
