@@ -14,16 +14,13 @@
     .header {
         width: 100%;
         position: relative;
+
     }
 
     .logo-help {
         width: 100%;
-        position: static;
-        right: 0;
-        width: fit-content;
-        display: flex;
+        justify-content: space-between;
         flex-direction: row-reverse;
-        justify-content: flex-end;
     }
 
     .logo-link {
