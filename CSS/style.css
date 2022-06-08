@@ -64,6 +64,7 @@
     margin: 3.5rem 0;
     font-size: xx-large;
     border: 0.2rem solid black;
+    border-right: 0.1rem;
 }
 
 .Frankreich {
@@ -72,6 +73,7 @@
     margin: 3.5rem 0;
     font-size: xx-large;
     border: 0.2rem solid black;
+    border-right: 0.1rem;
 }
 
 .Asien {
