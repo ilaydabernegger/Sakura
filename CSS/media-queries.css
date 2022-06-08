@@ -8,17 +8,22 @@
 @media screen and (max-width: 1200px) {
     .header-bar {
         flex-direction: column;
+        height: auto;
     }
 
     .header {
         width: 100%;
+        position: relative;
     }
 
     .logo-help {
-        padding-left: 50%;
-        position: relative;
+        width: 100%;
+        position: static;
+        right: 0;
         width: fit-content;
+        display: flex;
         flex-direction: row-reverse;
+        justify-content: flex-end;
     }
 
     .logo-link {
@@ -31,6 +36,14 @@
 
     .header-title {
         margin: 0rem;
+    }
+
+    .nav {
+        width: auto;
+    }
+    
+    .top-row {
+        max-width: 99%;
     }
 
     .Italien,
