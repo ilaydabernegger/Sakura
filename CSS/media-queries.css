@@ -1,6 +1,36 @@
-@media screen and (max-width: 970px) {
+@media screen and (max-width: 1369px) {
+    .Frankreich {
+        padding-right: 0rem;
+        padding-left: 0rem;
+    }
+}
+
+@media screen and (max-width: 1200px) {
     .header-bar {
         flex-direction: column;
+    }
+
+    .header {
+        width: 100%;
+    }
+
+    .logo-help {
+        padding-left: 50%;
+        position: relative;
+        width: fit-content;
+        flex-direction: row-reverse;
+    }
+
+    .logo-link {
+
+    }
+
+    .img-logo {
+
+    }
+
+    .header-title {
+        margin: 0rem;
     }
 
     .Italien,
@@ -11,10 +41,5 @@
         padding: 1rem auto;
     }
 
-    .logo-help {
-        position: relative;
-        left: 50%;
-        width: fit-content;
-        flex-direction: row-reverse;
-    }
 }
+
