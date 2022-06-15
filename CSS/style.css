@@ -73,7 +73,7 @@
     padding: 1rem 0.5rem;
     margin: 3.5rem 0;
     font-size: xx-large;
-    border: 0.2rem solid black;    
+    border: 0.2rem solid black;
     border-right: 0.1rem;
 }
 
@@ -95,7 +95,9 @@
 }
 
 /* Main */
-
+.p{
+  margin: 0.5%
+}
 
 /* Footer-bar */
 
@@ -121,11 +123,11 @@
 
 .impressum {
     margin: auto;
-    margin-bottom: 0.5rem;   
+    margin-bottom: 0.5rem;
     width: 100%;
     display: flex;
     flex-direction: row;
-    text-align: center; 
+    text-align: center;
 }
 
 /*
