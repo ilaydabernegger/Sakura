@@ -15,7 +15,8 @@
 
 .header-bar {
     margin: 0.5%;
-    width: 99%;
+    width: 98.5%;
+    padding-right: 0.5%;
     display: flex;
     flex-direction: row;
     height: fit-content;
@@ -51,7 +52,8 @@
     margin-left: 5%;
     width: fit-content;
     font-size: 5rem;
-    font-family: 'Lato'; /* help */
+    font-family: 'Lato';
+    /* help */
 }
 
 .nav {
@@ -73,7 +75,7 @@
     padding: 1rem 0.5rem;
     margin: 3.5rem 0;
     font-size: xx-large;
-    border: 0.2rem solid black;    
+    border: 0.2rem solid black;
     border-right: 0.1rem;
 }
 
@@ -96,6 +98,11 @@
 
 /* Main */
 
+.main-container {
+    background-color: white;
+    margin: 0.5%;
+    width: 99%;
+}
 
 /* Footer-bar */
 
@@ -121,11 +128,11 @@
 
 .impressum {
     margin: auto;
-    margin-bottom: 0.5rem;   
+    margin-bottom: 0.5rem;
     width: 100%;
     display: flex;
     flex-direction: row;
-    text-align: center; 
+    text-align: center;
 }
 
 /*

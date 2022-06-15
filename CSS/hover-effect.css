@@ -15,6 +15,6 @@
 .hvr-fade:hover,
 .hvr-fade:focus,
 .hvr-fade:active {
-    background-color: #2098D1;
-    color: white;
+    background-color: #434343;
+    color: rgb(204, 204, 204);
 }
