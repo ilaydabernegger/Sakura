@@ -23,14 +23,6 @@
         flex-direction: row-reverse;
     }
 
-    .logo-link {
-
-    }
-
-    .img-logo {
-
-    }
-
     .header-title {
         margin: 0rem;
     }
@@ -38,7 +30,7 @@
     .nav {
         width: auto;
     }
-    
+
     .top-row {
         max-width: 99%;
     }
@@ -52,4 +44,3 @@
     }
 
 }
-
