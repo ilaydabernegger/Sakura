@@ -14,7 +14,6 @@
 /* Header-bar */
 
 .header-bar {
-    background-color: white;
     margin: 0.5%;
     width: 98.5%;
     padding-right: 0.5%;
@@ -100,7 +99,6 @@
 /* Main */
 
 .main-container {
-    background-color: white;
     margin: 0.5%;
     width: 98%;
     padding: 0.5%;
@@ -114,7 +112,6 @@
 /* Footer-bar */
 
 .footer-container {
-    background-color: white;
     font-family: 'Lora';
     height: fit-content;
     width: fit-content;
